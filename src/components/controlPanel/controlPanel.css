@@ -1,0 +1,25 @@
+.control-panel {
+  padding: 1rem;
+  background-color: #23395b;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+label {
+  display: flex;
+  flex-direction: column;
+  margin: 0.4rem 0rem;
+}
+
+input,
+select {
+  margin: 0.4rem 0rem;
+}
+
+@media (max-width: 768px) {
+  .control-panel {
+    width: 100%;
+  }
+}

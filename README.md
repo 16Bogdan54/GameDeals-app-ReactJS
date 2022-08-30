@@ -1,6 +1,6 @@
 # Web app for tracking game shop deals based on ReactJS
 
-Deployed project [LunaGames](https://glowing-yeot-96542b.netlify.app/).
+[Live Demo](https://glowing-yeot-96542b.netlify.app/).
 
 ## Technologies, API, addtional libraries:
 

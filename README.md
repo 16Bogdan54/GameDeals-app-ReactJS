@@ -2,12 +2,22 @@
 
 [Live Demo](https://glowing-yeot-96542b.netlify.app/).
 
-## Technologies, API, addtional libraries:
+Luna Games is a [SPA](https://en.wikipedia.org/wiki/Single-page_application) for tracking deals on popular game-selling platforms.
 
-### [ReactJS](https://reactjs.org/docs/getting-started.html)
+## How to use
 
-### [CheapShark API](https://apidocs.cheapshark.com/)
+To clone and run this app, you'll need [Git](https://git-scm.com/) and [Node.js](https://nodejs.org/en/)
 
-### [React Icons](https://react-icons.github.io/react-icons/)
+```bash
+# Clone this repository
+$ git clone https://github.com/16Bogdan54/Steam_Deals_App_ReactJS.git
 
-### [React Loader](https://www.npmjs.com/package/react-loader-spinner)
+# Go into the folder
+$ cd Steam_Deals_App_ReactJS
+
+# Install dependencies
+$ npm install
+
+# Run the app
+$ npm run dev
+```

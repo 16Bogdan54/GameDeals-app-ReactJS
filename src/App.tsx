@@ -1,4 +1,5 @@
 import Filter from "./components/filter/Filter";
+import Games from "./components/games/Games";
 import Navbar from "./components/navbar/Navbar";
 
 const App = () => {
@@ -6,6 +7,7 @@ const App = () => {
     <div className="App">
       <Navbar />
       <Filter />
+      <Games />
     </div>
   );
 };

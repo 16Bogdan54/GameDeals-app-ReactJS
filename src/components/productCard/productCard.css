@@ -1,0 +1,12 @@
+.card {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 1rem;
+  background: rgba(60, 108, 167, 0.669);
+  color: white;
+}
+
+.card h3 {
+  margin: 0.7rem 0rem;
+}
